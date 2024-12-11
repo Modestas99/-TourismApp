@@ -21,5 +21,6 @@ This program is designed to organize and manage tour operators and their destina
 ### 4. Data Storage
 - Save and load the entire data structure to and from files for persistence.
 
-## Usage
-This program provides a comprehensive toolkit for managing the operations of tour operators and enhancing the travel experiences they offer. Simply use the features outlined above to manage your data effectively.
+## Usage / Launching
+You can either load the entire repository into your IDE or code editor and run it from there, or download the folder and run the main.exe file. 
+If you choose to run the .exe file, ensure that all other required files are present in the same folder as the .exe file.
